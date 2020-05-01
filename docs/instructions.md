@@ -4,6 +4,9 @@
 - "Provide documentation on how to setup the development environment"
 - "Provide documentation on how to compile and run the application"
 - "Provide documentation on how to build the application"
+
+## Our organization asks
+- "Keep track of progress during development"
 - "Keep track of issues and requirements during development"
 
 ## The mission 
@@ -26,17 +29,16 @@
   - repeat until done
   
 ## Learning goals
-- create & check in a java application in github (team)
-- work on a java application in two teams (red / blue)
-  - create a red and a blue branch
-- learn issue management with github (marc)
-- learn project task / issue tracking with github (marc)
-- learn github markup + tools (marc)
+- create & check in a java application in github
+- learn issue management with github
+- learn project task / issue tracking with github
+- learn github markup + tools
 
 ## Materials/Direcions
 * use the [springboot quickstart guide](https://spring.io/quickstart) to create the project
-* 
+* _option_: install [caret.io] (https://caret.io/) to edit markup files
+
 ## Links
-- [github starters] ()
+- [github starter guides] (https://guides.github.com/)
 - [What is Kanban](https://www.digite.com/kanban/what-is-kanban/) - [video](https://www.youtube.com/watch?v=Oux-frfCLCo)
 
